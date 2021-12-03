@@ -1,0 +1,9 @@
+IsEquippedRightHasKeyword("Update.esm"|0x0DE500E) AND
+NOT IsEquippedLeftType(1) AND
+NOT IsEquippedLeftType(2) AND
+NOT IsEquippedLeftType(3) AND
+NOT IsEquippedLeftType(4) AND
+NOT IsEquippedLeftType(5) AND
+NOT IsEquippedLeftType(6) AND
+NOT IsEquippedLeftType(11) AND
+NOT IsEquippedLeftType(18) AND

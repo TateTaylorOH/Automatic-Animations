@@ -1,0 +1,2 @@
+IsEquippedLeftHasKeyword("Update.esm"|0x0DE500B) AND
+IsEquippedRightHasKeyword("Update.esm"|0x0DE500B)
