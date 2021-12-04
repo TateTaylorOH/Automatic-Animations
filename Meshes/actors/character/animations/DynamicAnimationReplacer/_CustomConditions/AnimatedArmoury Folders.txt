@@ -1,0 +1,19 @@
+Claws in Right hand need to be below both claw in left and claw in both
+Katana with Something in Left hand needs to be below Katana with Nothing in Left hand
+
+10 - Rapier
+11 - Pikes
+12 - Halberds
+13 - QuarterStaffs
+14 - Claw in Right hand 1hm in Left Hand
+15 - Cestus - If I ever fucking bother making them
+16 - Maces
+17 - Daggers in Right Hand
+18 - Whips
+19 - Katana with Something in Left hand
+20 - Katana with Nothing in Left hand
+
+29 - Claw in Left hand
+30 - Claws in both hands
+31 - Whip in Left hand
+32 - Whip in both hands - Make sure you have a Dual whip variant in your left hand

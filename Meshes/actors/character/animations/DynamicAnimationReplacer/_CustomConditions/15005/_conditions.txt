@@ -1,1 +1,0 @@
-IsEquippedRightHasKeyword("Update.esm"|0x0DE5005)

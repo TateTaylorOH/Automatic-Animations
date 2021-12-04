@@ -1,0 +1,14 @@
+Claws in Right hand need to be below both claw in left and claw in both
+
+10 - Rapier
+11 - Pikes
+12 - Halberds
+13 - QuarterStaffs
+14 - Claw in Right hand 1hm in Left Hand
+15 - Cestus - If I ever fucking bother making them
+18 - Whips
+19 - Katanas
+
+29 - Claw in Left hand
+30 - Claws in both hands
+31 - Whip in Left hand
