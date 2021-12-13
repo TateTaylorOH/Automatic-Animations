@@ -32,11 +32,11 @@ Compatiblity for the following mods are built directly into this framework:
 
 It is very easy to extend this mod to suit your own load order. Simply create a new .ini file with the suffix "_KID" and place it into your mod's folder. Then use the following template to assign the proper keywords to the weapons you want:
 
-`﻿﻿Keyword = [KeywordFormID]|Weapon|[WeaponName]|NONE|NONE`
+`Keyword = [KeywordFormID]|Weapon|[WeaponName]|NONE|NONE`
 
 The keyword formID for each of the relevant weapon type can be found below:
 
-01DE5005: WeapTypeSpear\
+`01DE5005: WeapTypeSpear\
 01DE5006: WeapTypeJavelin (no animations weapons exist for this weapon type)\
 01DE5007: WeapTypePike\
 01DE5008: WeapTypeHalberd\
@@ -46,4 +46,4 @@ The keyword formID for each of the relevant weapon type can be found below:
 01DE500C: WeapTypeScythe (no animations weapons exist for this weapon type)\
 01DE500D: WeapTypeWhip\
 01DE500E: WeapTypeKatana\
-01DE500F: WeapTypeGun (no custom animations exist for this weapon type)
+01DE500F: WeapTypeGun (no custom animations exist for this weapon type)`
