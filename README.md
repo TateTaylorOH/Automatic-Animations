@@ -37,13 +37,13 @@ It is very easy to extend this mod to suit your own load order. Simply create a 
 The keyword formID for each of the relevant weapon type can be found below:
 
 01DE5005: WeapTypeSpear\
-01DE5006: WeapTypeJavelin (no animations weapons exist for this weapon type)\
+01DE5006: WeapTypeJavelin (no custom animations exist for this weapon type)\
 01DE5007: WeapTypePike\
 01DE5008: WeapTypeHalberd\
 01DE5009: WeapTypeRapier\
 01DE500A: WeapTypeQuarterstaff\
 01DE500B: WeapTypeClaw\
-01DE500C: WeapTypeScythe (no animations weapons exist for this weapon type)\
+01DE500C: WeapTypeScythe (no custom animations exist for this weapon type)\
 01DE500D: WeapTypeWhip\
 01DE500E: WeapTypeKatana\
 01DE500F: WeapTypeGun (no custom animations exist for this weapon type)
