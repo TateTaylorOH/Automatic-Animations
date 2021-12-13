@@ -29,6 +29,7 @@ Compatiblity for the following mods are built directly into this framework:
 -   [Shirley - A Skyrim Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45956)﻿
 -   Most mods that add Goldbrand
 -   Most mods that add new add new weapon types such as Halberd and Spears to the vanilla material types\
+
 It is very easy to extend this mod to suit your own load order. Simply create a new .ini file with the suffix "_KID" and place it into your mod's folder. Then use the following template to assign the proper keywords to the weapons you want:
 
 `﻿﻿Keyword = [KeywordFormID]|Weapon|[WeaponName]|NONE|NONE`
